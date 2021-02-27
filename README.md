@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Miichxael&show_icons=true&hide_border=true">
 
 ## 🧐 About Me !
 
