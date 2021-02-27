@@ -2,7 +2,7 @@
 
 𝗜'𝗺 [**Michxael**](https://instagram.com/_miichxael)！**I don't know who are you, and I don't really care.**
 
- [![Instagram](https://discordapp.com/api/guilds/272348156035989504/embed.png)](https://instagram.com/_miichxael)
+ [![Instagram](https://img.shields.io/badge/Instagram-Follow%20me%20on!-ff69b4)](https://instagram.com/_miichxael)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
