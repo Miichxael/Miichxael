@@ -4,7 +4,7 @@
 
 <h2 align="center">How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_miichxael/"/>
+<img src="https://img.shields.io/badge/-Michxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_miichxael/"/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
@@ -17,7 +17,7 @@
 
 #### languages and tools I've used
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
