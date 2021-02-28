@@ -17,8 +17,7 @@
 - If you want to know more about me, don't scare to contact me on IG, yes only Instagram !
 - Okay, BYE !  
 
-  <p align="center">
-#### languages and tools I've used
+ <p align="center"> #### languages and tools I've used
   
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
