@@ -1,6 +1,6 @@
 # **Ni Hao**！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [**Michxael**](https://instagram.com/_miichxael)！**So, what are you looking for ? Just turn around and Go Away.**
+𝗜'𝗺 [**Michxael**](https://instagram.com/_miichxael)！
 
 
 <h2 align="center">How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
@@ -10,13 +10,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Miichxael&show_icons=true&hide_border=true">
-
 ## 🧐 About Me !
 
--  Hello, I'm Michxael, okay bye!
+-  You will not want to know about me, i'm pretty sure.
+-  Stop making some stupid question about: "Hey, why are you only have one social media ?"
+-  If you want to know me more, don't scare to contact me on IG, yes only Instagram !
+-  Okay, BYE !  
 
-
+   <p align="center">
 #### languages and tools I've used
   <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
