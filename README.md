@@ -6,16 +6,16 @@
 <h2 align="center">How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Michxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_miichxael/"/>
+<img src="https://img.shields.io/badge/-Michxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_miichxael/"/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
 ## 🧐 About Me !
 
--  You will not want to know about me, i'm pretty sure.
--  Stop making some stupid question about: "Hey, why are you only have one social media ?"
--  If you want to know me more, don't scare to contact me on IG, yes only Instagram !
--  Okay, BYE !  
+- You probably won't want to know about me, and I'm pretty sure of it.
+- Stop making stupid questions about: "Hey, why do you only have one social media account?"
+- If you want to know more about me, don't scare to contact me on IG, yes only Instagram !
+- Okay, BYE !  
 
   <p align="center">
 #### languages and tools I've used
