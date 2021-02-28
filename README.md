@@ -19,7 +19,7 @@
 
   <p align="center">
 #### languages and tools I've used
-  <p align="center">
+  
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
