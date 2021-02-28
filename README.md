@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-VisualStudionCode-black?style=flat-square&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/-VisualStudioCode-black?style=flat-square&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -31,20 +31,3 @@
 
 
 <hr>
-
-<details>
-  
-  <h2 align="center">
-  Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Miichxael&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Miichxael&hide=css,java,html&theme=radical">
-</p>
-<p align = "center">
- 
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Miichxael&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
