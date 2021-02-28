@@ -6,7 +6,7 @@
 <h2 align="center">How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Michxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_miichxael/"/>
+<img src="https://img.shields.io/badge/-_miichxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_miichxael/"/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
@@ -16,6 +16,10 @@
 - *Stop making stupid questions about: "Hey, why do you only have one social media account?"*
 - *If you want to know more about me, don't scare to contact me on IG, yes only Instagram !*
 - *Okay, BYE !*  
+
+<br>
+
+<hr>
 
  #### languages and tools I've used
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
