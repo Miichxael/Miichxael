@@ -17,13 +17,12 @@
 -  If you want to know me more, don't scare to contact me on IG, yes only Instagram !
 -  Okay, BYE !  
 
-   <p align="center">
+  <p align="center">
 #### languages and tools I've used
   <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-VSC-black?style=flat-square&logo=vsc"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
