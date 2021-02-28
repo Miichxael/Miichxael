@@ -16,8 +16,9 @@
 
 -  Hello, I'm Michxael, okay bye!
 
-<p align="center">
+
 #### languages and tools I've used
+  <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
