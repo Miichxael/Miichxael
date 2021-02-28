@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/> <br>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> <br>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> <br>
+<hr>
 
 
 <hr>
