@@ -2,7 +2,9 @@
 
 𝗜'𝗺 [**Michxael**](https://instagram.com/_miichxael)！**I don't know who are you, and I don't really care.**
 
- [![Instagram](https://img.shields.io/badge/Follow%20me%20on%20!-Instagram-ff69b4)](https://instagram.com/_miichxael)
+<h2 align="center">How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_miichxael/"/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
 
@@ -14,11 +16,12 @@
 
 
 #### languages and tools I've used
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
-<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
-<img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
-<img height="20" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=whitee"/>
-<img height="20" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+
 
 <hr>
 
