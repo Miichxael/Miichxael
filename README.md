@@ -24,6 +24,7 @@
 
 -  Hello, I'm Michxael, okay bye!
 
+<p align="center">
 
 #### languages and tools I've used
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -48,6 +49,6 @@
 </p>
 <p align = "center">
  
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Miichxael&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
