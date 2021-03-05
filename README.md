@@ -1,4 +1,4 @@
-<h2 align="center"># **Ni Hao**！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+<h2 align="center">**Ni Hao**！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
 <h2 align="center">𝗜'𝗺 [**Michxael**](https://instagram.com/_miichxael)！
 
@@ -24,7 +24,7 @@
 
  <h2 align="center">Languages and Tools i've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
-<hr>
+<p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> <br>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/> <br>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/> <br>
