@@ -5,7 +5,7 @@
 ## 🧐 About Me !
 
 - *You probably won't want to know about me, and I'm pretty sure of it.*
-- *Stop asking me a stupid questions about: "Hey, do you have another social media account except Instagram?"*
+- *Stop asking me with a stupid questions !*
 - *If you want to know more about me, don't scare to contact me on IG, yes only Instagram !*
 - *Okay, BYE !*  
 <br>
