@@ -6,7 +6,7 @@
 
 - *You probably won't want to know about me, and I'm pretty sure of it.*
 - *Stop asking me with a stupid questions !*
-- *If you want to know more about me, no, you will not won't to know about me !*
+- *If you want to know more about me, no, you will not !*
 - *Okay, BYE !*  
 <br>
 
@@ -22,6 +22,5 @@
 <img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black"/>
 
