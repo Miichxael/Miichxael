@@ -2,6 +2,15 @@
 
 𝗜'𝗺 [Michxael](https://instagram.com/_Miichxael)!
 
+## 🧐 About Me !
+
+- *You probably won't want to know about me, and I'm pretty sure of it.*
+- *Stop making stupid questions about: "Hey, why do you only have one social media account?"*
+- *If you want to know more about me, don't scare to contact me on IG, yes only Instagram !*
+- *Okay, BYE !*  
+
+<br>
+
 
 How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
@@ -11,15 +20,6 @@ How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4
 [![Discord](https://discord.c99.nl/widget/theme-3/388632658797658113.png)](https://discord.com/users/388632658797658113)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
-
-## 🧐 About Me !
-
-- *You probably won't want to know about me, and I'm pretty sure of it.*
-- *Stop making stupid questions about: "Hey, why do you only have one social media account?"*
-- *If you want to know more about me, don't scare to contact me on IG, yes only Instagram !*
-- *Okay, BYE !*  
-
-<br>
 
  #### Languages and tools I've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
