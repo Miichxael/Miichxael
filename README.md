@@ -1,12 +1,11 @@
-**Ni Hao**！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# **Ni Hao**！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [**Michxael**](https://instagram.com/_miichxael)！
+𝗜'𝗺 [Michxael](https://instagram.com/_Miichxael)!
 
 
-<h2 align="center">How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-__miichxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_miichxael/"/>
+<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=instagram&logoColor=white&link=https://instagram.com/_miichxael/"/>
  
 #### My Discord
 [![Discord](https://discord.c99.nl/widget/theme-3/388632658797658113.png)](https://discord.com/users/388632658797658113)
@@ -22,7 +21,7 @@
 
 <br>
 
- <h2 align="center">Languages and Tools i've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+ #### Languages and tools I've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
