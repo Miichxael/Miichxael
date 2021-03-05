@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/-__miichxael-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_miichxael/"/>
  
 #### Languages and tools I've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-<hr>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/> 
