@@ -11,19 +11,15 @@
 
 <br>
 
-
 ## How you can Reach me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-#### My Discord
+#### My Discord (I won't response you with Discord DM)
 [![Discord](https://discord.c99.nl/widget/theme-3/388632658797658113.png)](https://discord.com/users/388632658797658113)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
-
-
 <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=instagram&logoColor=white&link=https://instagram.com/_miichxael/"/>
  
- #### Languages and tools I've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-
+#### Languages and tools I've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/> 
