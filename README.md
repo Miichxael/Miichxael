@@ -16,7 +16,7 @@
 [![Discord](https://discord.c99.nl/widget/theme-3/388632658797658113.png)](https://discord.com/users/388632658797658113)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Miichxael)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&labelColor=pink&logo=instagram&logoColor=white&link=https://instagram.com/_miichxael)](https://instagram.com/_miichxael)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=https://instagram.com/_miichxael)](https://instagram.com/_miichxael)
  
 ## Languages and tools I've used <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
